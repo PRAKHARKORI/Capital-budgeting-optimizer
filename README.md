@@ -1,4 +1,4 @@
-# Capital Budgeting & Portfolio Optimizer
+# Multi-Year Financial Forecasting & Optimization Engine 
 
 A Python web application that bridges **Finance** and **Project Management**. 
 
